@@ -15,3 +15,6 @@ proguard-rules.pro
 
 # テスト設定が消えるため指定しない
 # .idea/workspace.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
